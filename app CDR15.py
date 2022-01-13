@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-
-
 #importing the libraries
 import pandas as pd
 import webbrowser
